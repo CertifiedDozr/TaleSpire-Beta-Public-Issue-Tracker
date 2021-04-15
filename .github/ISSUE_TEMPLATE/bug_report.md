@@ -1,24 +1,22 @@
 ---
-name: Bug report
-about: I've found a new way to break TaleSpire \o/
-title: ''
-labels: ''
+name: Dice
+about: Brand new
+title: 'How to despawn dice, or cancel dice roll as player / gm'
+labels: 'dice'
 assignees: ''
 
 ---
 
 **Describe the bug**
-Here tell us what you thought was meant to happen and then how TaleSpire vomited on itself
+I can't delete dice that i roll, nor can I cancel rolling them if i click the icon at the bottom. if there is a way, it's not intuitive.
 
 **To Reproduce**
 Steps to reproduce the behavior:
-1. Punch an ogre '...'
-2. Set a chair on fire '....'
-3. Tried to open a door '....'
-4. TaleSpire crashed
+1. click the d4 at the bottom left of the screen. 
+2. drag dice out and roll them
 
 **Screenshots/Videos/Twitch Clips**
-These are worth their weight in gold!
+https://imgur.com/a/kyuh48P
 
 **Additional context**
-Unburden yourself of thoughts and musings here
+
